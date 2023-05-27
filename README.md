@@ -14,7 +14,7 @@ Aim of this particular project is to show alternative representation of a web si
 
 ## Structure
 
-Project is entirely built on plain **HTML** and **CSS** only, without using any frameworks. During development process all the up-to date HTML5 semantic tags and CSS3 were used in order to improve accessibility and overall styling. Web-site contains 6 main, different from each other, pages that are located in 'html' folder (except the 'home' page). These include:
+Project is entirely built on plain **HTML** and **CSS** only, without using any frameworks. During development process all the up-to date HTML5 semantic tags and CSS3 styles were used in order to improve accessibility and overall styling. Web-site contains 6 main, different from each other, pages that are located in 'html' folder (except the 'home' page). These include:
 
 1. [home](index.html)
 2. [about](html/about.html)

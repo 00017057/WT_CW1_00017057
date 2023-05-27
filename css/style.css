@@ -191,13 +191,13 @@ header a:hover {
 
 /* Sidebar */
 
-aside#sidebar {
+.sidebar {
   float: right;
   width: 30%;
   margin-top: 10px;
 }
 
-aside#sidebar .quote input, aside#sidebar .quote textarea {
+.sidebar .quote input, .sidebar .quote textarea {
   width: 90%;
   padding: 5px;
 }
@@ -257,6 +257,11 @@ footer {
   height: auto;
 }
 
+iframe {
+  height: 450px;
+  width: 100%;
+}
+
 /* Media Queries */
 @media(max-width: 768px) {
   header #branding,
@@ -266,7 +271,7 @@ footer {
   #newsletter form,
   #boxes .box,
   article#main-col,
-  aside#sidebar,
+  .sidebar,
   iframe,
   #courses {
     float: none;

@@ -189,7 +189,7 @@ header a:hover {
   margin-top: 20px;
 }
 
-#boxes .box img {
+.box img {
   width: auto;
   height: 6rem;
 }

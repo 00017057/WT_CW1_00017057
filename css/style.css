@@ -269,7 +269,6 @@ iframe {
   header nav li,
   #newsletter h1,
   #newsletter form,
-  #boxes .box,
   article#main-col,
   .sidebar,
   iframe,
@@ -301,4 +300,9 @@ iframe {
     text-align: left;
   }
 
+  #boxes .box {
+    min-width: 200px;
+    float: none;
+    text-align: center;
+  }
 }

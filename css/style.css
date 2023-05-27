@@ -43,6 +43,10 @@ body {
   color: #2596be;
 }
 
+.box button{
+  cursor: pointer;
+}
+
 ul {
   margin: 0px;
   padding: 0px;

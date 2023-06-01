@@ -8,7 +8,8 @@ This project's purpose is to show a set of skills and knowledge in **HTML, CSS a
 
 Links to the hosted web-site:
 
-**GitHub -** https://00017057.github.io/WT_CW1_00017057/
+**GitHub -** https://00017057.github.io/WT_CW1_00017057/  
+
 **Netlify -** https://cool-kelpie-78e43f.netlify.app/
 
 Link to a public repository on GitHub:

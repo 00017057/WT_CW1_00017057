@@ -4,6 +4,17 @@
 
 This project's purpose is to show a set of skills and knowledge in **HTML, CSS and JavaScript** that were acquired during the tutorials of Web-Technology module.
 
+## Links
+
+Links to the hosted web-site:
+
+**GitHub -** https://00017057.github.io/WT_CW1_00017057/
+**Netlify -** https://cool-kelpie-78e43f.netlify.app/
+
+Link to a public repository on GitHub:
+
+**GitHub repository -** https://github.com/00017057/WT_CW1_00017057
+
 ## Disclaimer
 
 This web-site was made only for the purposes of course work 1 task fulfillment on the module Web Technology.
